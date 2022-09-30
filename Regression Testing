@@ -45,3 +45,28 @@
 9. Customized listbox
 10.Different types of exception in selenium
 11.Dynamic element
+
+1. What is selenium framework? Types of framework?
+2. Example without DDF?
+3. Example of DDF?
+4. POM(Page object module) with pagefactory
+5. POM with DDF?
+6. TestNG //TDD //BDD-cucumber
+1. Advantages
+2. Annotations
+3. keywords
+4. Emailable report
+5. Test-suite
+6. Assertion / Verification
+7. failed.xml file
+8. disable TC execution for suite
+9. Grouping of test cases                    
+10. Parallel testing
+11. Multi browser testing/C.T
+12. Multi browser parallel testing
+13. Difference between TestNG and Junit
+14. POM DDF-testNG
+15. POM DDF-testNG base and utility class
+16. Property file & Listener(capture failed test cases)
+17. Mavan project
+18. Log 4j & Extend Reporter
